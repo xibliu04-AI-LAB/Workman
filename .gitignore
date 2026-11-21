@@ -1,0 +1,7 @@
+node_modules/
+*.exe
+*.asar
+*.zip
+dist/
+out/
+IG/

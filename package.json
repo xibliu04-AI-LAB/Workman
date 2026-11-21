@@ -1,0 +1,7 @@
+{
+  "name": "work-item",
+  "productName": "工作項目",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "Work item todo"
+}
